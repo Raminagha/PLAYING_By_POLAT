@@ -1,1 +1,1 @@
-worker: node Hama.js
+worker: node polat.js
