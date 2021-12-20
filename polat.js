@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const Hama = new Discord.Client();
+const polat = new Discord.Client();
 //////// playing or dnd  streaming ////////
 polat.on("ready", () => {
   console.log(Online In Servers);
