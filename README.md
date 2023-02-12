@@ -2,7 +2,7 @@
 
 # PLAYING Acount By:POLAT BOT
 
-# Link Server : https://discord.gg/ttx9b2YcaP
+# Link Server : https://discord.gg/khjYvP5ZEn
 
 
 # Ba Hiway Swd
