@@ -14,12 +14,12 @@ polat.on("ready", () => {
 });
 ///////////////////////
 polat.on("ready", () => {
-  var join = polat.channels.get(""); /// id voice
+  var join = polat.channels.get("1078601127853031446"); /// id voice
   if (join) join.join();
 });
 //////////////// tokn lera da bne
 
-polat.login ("");
+polat.login ("MTA4MjI2MTIyNDUwODYzNzI2NQ.GNAHtC.PwcPFE8_YpwwUjUjse1taCP847NLDybFfRe7bM");
 
 
 
